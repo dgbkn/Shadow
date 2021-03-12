@@ -62,12 +62,7 @@ python3 Tsunami.py -m Number_of_messages -t victim's_ten_digit_mobile_no
 
 ```
 python3 Tsunami.py -m 1000 -t _____________
-```
 
-## 🔸 Screenshot
-
-Click on the below Thumbnail to Expand the Screenshot size: <br><br>
-<a href="https://1.bp.blogspot.com/-Uyd4gfFDm_4/YEDJABmxjRI/AAAAAAAAbdg/3Uwn46de_xAClieZSkD-dvKWEe4CXt3cwCLcBGAsYHQ/s0/Tsunami.png"><img alt="Screenshots" title="Screenshots" src="https://1.bp.blogspot.com/-v6tlDOxS2Yo/YEHJALUlDdI/AAAAAAAAbf0/JsZ620Geh4kpi2yA65YE_R2XyJzsicRbACLcBGAsYHQ/s400/Tsunami.png"/></a><br><br>
 Yeah, it does show Syntax Error but that doesn't actually matter...<br>
 Everytime it shows the error it sends a bombing request to the API.
 
