@@ -62,7 +62,6 @@ python3 Tsunami.py -m Number_of_messages -t victim's_ten_digit_mobile_no
 
 ```
 python3 Tsunami.py -m 1000 -t _____________
-
 ```
 Yeah, it does show Syntax Error but that doesn't actually matter...<br>
 Everytime it shows the error it sends a bombing request to the API.
