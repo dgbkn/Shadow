@@ -67,7 +67,7 @@ python3 Shadow.py -m 1000 -t 0000000000
 ## 🔸 Screenshot
 
 Click on the below Thumbnail to Expand the Screenshot size: <br><br>
-<a href="https://1.bp.blogspot.com/-Uyd4gfFDm_4/YEDJABmxjRI/AAAAAAAAbdg/3Uwn46de_xAClieZSkD-dvKWEe4CXt3cwCLcBGAsYHQ/s0/Tsunami.png"><img alt="Screenshots" title="Screenshots" src="https://user-images.githubusercontent.com/70748280/111021820-08098580-83f5-11eb-9f64-41184fc7b9c7.png"/></a><br><br>
+<a href="https://1.bp.blogspot.com/-Uyd4gfFDm_4/YEDJABmxjRI/AAAAAAAAbdg/3Uwn46de_xAClieZSkD-dvKWEe4CXt3cwCLcBGAsYHQ/s0/Tsunami.png"><img alt="Screenshots" title="Screenshots" src="https://user-images.githubusercontent.com/70748280/s400/111021820-08098580-83f5-11eb-9f64-41184fc7b9c7.png"/></a><br><br>
 Yeah, it does show Syntax Error but that doesn't actually matter...<br>
 Everytime it shows the error it sends a bombing request to the API.
 
