@@ -11,7 +11,7 @@
 
 <p align="center">A free and open-source SMS/Call bombing application</p>
 
-## 🔸 Notes:
+## Notes:
 ⚙ [Script Usage Guide](https://github.com/nihalkadengal/Shadow#-usage-guide)
 
 > ## DISCLAIMER:
@@ -29,7 +29,7 @@ responsible for any misuse or damage caused by Shadow.**
 - This application must not be used to cause harm/discomfort/trouble to others
 - By using this, you agree that you cannot hold the developer responsible for any misuse
 
-## 🔸 Compatibility
+## Compatibility
 Check your Python version by typing in
 ```shell script
 $ python --version
@@ -40,7 +40,7 @@ Python 3.8.3
 ```
 or any version greater than or equal to 3.4, this script has been tested and confirmed to be supported. For obsolete versions of Python (eg 2.7), use discretion while executing the script as it has not been tested there.
 
-## 🔸 Features
+## Features
 
 - Over 20 integrated messaging and calling APIs included within api.py
 - Unlimited (with abuse protection) and super-fast bombing with multithreading
@@ -49,7 +49,7 @@ or any version greater than or equal to 3.4, this script has been tested and con
 - Actively supports Indian mobile numbers and will get updates and bug-fixes
 - Made for free and open-source usage, in case of any query feel free to contact
 
-## 🔸 Usage Guide
+## Usage Guide
 
 ```
 apt install python3 curl git -y
@@ -64,13 +64,12 @@ python3 Shadow.py -m Number_of_messages -t victim's_ten_digit_mobile_no
 python3 Shadow.py -m 1000 -t 0000000000
 ```
 
-## 🔸 Screenshot
+## Screenshot
 
-Click on the below Thumbnail to Expand the Screenshot size: <br><br>
 <a href="https://user-images.githubusercontent.com/70748280/111022907-dcd66480-83fb-11eb-8a0f-4d06ee99f7a4.png"><img alt="Screenshots" title="Screenshots" src="https://user-images.githubusercontent.com/70748280/111022907-dcd66480-83fb-11eb-8a0f-4d06ee99f7a4.png"/></a><br><br>
 Yeah, it does show Syntax Error but that doesn't actually matter...<br>
 Everytime it shows the error it sends a bombing request to the API.
 
-## 🔸 Contact me  
+## Contact me  
 
 For Queries: [My Instagram Profile](https://www.instagram.com/nihal07._/)
